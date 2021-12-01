@@ -1,6 +1,6 @@
 ## Oi! Sou Fernando Vieira
 
-- 🌱 Estou estudando ReactJS
+- 🌱 Estou estudando SQLAlchemy com Python
 
 <div>
   <a href="https://github.com/F-Vieira">
@@ -21,5 +21,5 @@
 <div> 
   <a href="https://www.instagram.com/fernando.v96/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:fernando.santos2901@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/fernandovieira-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/_fernando__vieira_/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
