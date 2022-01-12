@@ -1,6 +1,6 @@
 ## Oi! Sou Fernando Vieira
 
-- 🌱 Estou estudando SQLAlchemy com Python
+- Estudando NodeJS e ExpressJS.
 
 <div>
   <a href="https://github.com/F-Vieira">
