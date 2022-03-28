@@ -43,7 +43,7 @@ Sou desenvolvedor Frontend apaixonado pela tecnologia e estou estudando para ser
   <a href="https://www.linkedin.com/in/fernandovieira-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-## Principais Projetos
+## Principais Projetos - NOVOS PROJETOS CHEGANDO EM BREVE :)
 <br>
 <div style="display: flex">
  
@@ -62,7 +62,7 @@ Sou desenvolvedor Frontend apaixonado pela tecnologia e estou estudando para ser
 ##
 
 <br>
-<div style="display: flex">
+<!-- <div style="display: flex">
  
   <a href="https://github.com/F-Vieira/eisenhower-matrix">
     <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=f-vieira&repo=eisenhower-matrix&theme=chartreuse-dark" />
@@ -74,5 +74,5 @@ Sou desenvolvedor Frontend apaixonado pela tecnologia e estou estudando para ser
  </p>
  <br>
  
-</div>
+</div> -->
 <br>
