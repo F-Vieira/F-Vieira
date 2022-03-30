@@ -1,13 +1,13 @@
-# Hi! Seja bem-vindo ao meu github, me chamo Fernando Vieira
+# Hi! Seja bem-vindo
 
 ## Um pouco sobre mim.
 
-Sou desenvolvedor Frontend apaixonado pela tecnologia e estou estudando para ser um Fullstack.
+Sou desenvolvedor Frontend apaixonado pela tecnologia.
 
-## O que estou estudando atualmente?
+<!-- ## O que estou estudando atualmente?
 
 - NodeJS <a href="https://nodejs.org/en/" target="_blank"><img align="center" alt="Logo NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"></a>
-- ExpressJS. <a href="https://expressjs.com/" target="_blank"><img align="center" alt="Logo ExpressJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"></a>
+- ExpressJS. <a href="https://expressjs.com/" target="_blank"><img align="center" alt="Logo ExpressJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"></a> -->
 
 <div>
   <a href="https://github.com/F-Vieira">
