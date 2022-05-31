@@ -2,7 +2,7 @@
 
 ## Um pouco sobre mim.
 
-Sou desenvolvedor Frontend apaixonado pela tecnologia.
+Sou desenvolvedor Frontend.
 
 <!-- ## O que estou estudando atualmente?
 
@@ -43,8 +43,8 @@ Sou desenvolvedor Frontend apaixonado pela tecnologia.
   <a href="https://www.linkedin.com/in/fernandovieira-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-## Principais Projetos - NOVOS PROJETOS CHEGANDO EM BREVE :)
-<br>
+<!-- ## Principais Projetos - NOVOS PROJETOS CHEGANDO EM BREVE :) -->
+<!-- <br>
 <div style="display: flex">
  
   <a href="https://github.com/F-Vieira/Kenzie-Shop">
@@ -57,7 +57,7 @@ Sou desenvolvedor Frontend apaixonado pela tecnologia.
  </p>
  <br>
  
-</div>
+</div> -->
 
 ##
 
